@@ -3,35 +3,20 @@
 Simulador interativo para aprendizado de **HTML e CSS**, com editor em tempo real, preview dinâmico e sistema de validação de código.
 
 ---
+✅ HTMLLab — Entregáveis
+📄 HTMLLab-standalone.html — USE ESTE PRIMEIRO
+Arquivo único de 324 KB que abre direto no navegador. Sem instalação, sem Node.js, funciona offline. Ideal para laboratório de informática — copie para um pen drive e distribua para todos os alunos.
+📦 HTMLLab-COMPLETO.zip — Pacote completo com 2 versões
+Contém:
 
-## 📌 Sobre o Projeto
+standalone/HTMLLab.html → abre direto no navegador
+projeto-fonte/ → código-fonte React para personalização
+LEIA-ME.txt → instruções detalhadas
 
-O **HTML Lab Simulator** é uma aplicação educacional desenvolvida para facilitar o ensino de desenvolvimento web básico, permitindo que alunos pratiquem diretamente no navegador enquanto recebem feedback imediato.
+📦 htmllab-projeto-completo.zip — Só o código-fonte React
 
-A proposta é unir:
-
-- 📚 Teoria (centro de aprendizado)
-- ✍️ Prática (editor de código)
-- 🎯 Desafios (gamificação)
-- 📊 Feedback (validação automática)
-
----
-
-## 🎯 Objetivo
-
-- Ensinar fundamentos de HTML e CSS
-- Promover aprendizado prático (hands-on)
-- Reduzir erros comuns com feedback em tempo real
-- Aumentar o engajamento com desafios gamificados
-
----
-
-## 🧠 Funcionalidades
-
-### ✍️ Editor de Código
-- Editor separado para HTML e CSS
-- Suporte a indentação (TAB)
-- Interface simples e focada no aprendizado
+🗂️ O que foi construído (23 arquivos)
+ArquivoFunçãoLoginPage.jsxEntrada apenas com nome do alunoSimulatorPage.jsxEditor + preview + toolbar completaChallengesPage.jsxGrade de 4 desafios temáticosLearnPage.jsxReferência interativa HTML/CSSHomePage.jsxDashboard de boas-vindasAppContext.jsxEstado global com localStorageEditor.jsxEditor com numeração e TabPreview.jsxiframe ao vivoLogPanel.jsxConsole Resumo/Técnico/JSONTipModal.jsxDicas: 60s visível, 2 min cooldownexportZip.jsGera .zip com index.html + style.cssprintReport.jsRelatório escolar com assinaturasvalidators.jsDetecta erros HTML e CSSlogger.jsLogs técnicos + feedback pedagógicoglobal.cssDesign system Cyber-Anime completo
 
 ---
 
