@@ -93,6 +93,7 @@ Estrutura ainda monolítica (arquivo grande)
 Validação baseada em regras simples
 🎓 Aplicação Educacional
 
+
 Este projeto é ideal para:
 
 Aulas introdutórias de desenvolvimento web
@@ -100,6 +101,9 @@ Laboratórios práticos
 Cursos técnicos de informática
 Ensino fundamental e médio técnico
 
+```
+
 👨‍🏫 Autor
 Renan Matheus
 Professor de Informática
+
